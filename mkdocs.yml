@@ -1,6 +1,7 @@
 site_name: Fluffy's Docs
 repo_url: https://github.com/jackadamson/jackadamson.github.io
 repo_name: jackadamson/jackadamson.github.io
+edit_uri: edit/main/docs/
 extra_css:
   - theme/chips.css
   - theme/theme.css
