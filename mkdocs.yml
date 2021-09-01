@@ -1,4 +1,6 @@
 site_name: Fluffy's Docs
+repo_url: https://github.com/jackadamson/jackadamson.github.io
+repo_name: jackadamson/jackadamson.github.io
 extra_css:
   - theme/chips.css
   - theme/theme.css
@@ -31,12 +33,14 @@ theme:
         name: Switch to dark mode
   icon:
     logo: logo
+    repo: fontawesome/brands/github
 
 plugins:
   - tags:
   - search
   - git-revision-date
   - awesome-pages
+
 markdown_extensions:
   - admonition
   - abbr
